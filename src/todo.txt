@@ -1,0 +1,5 @@
+->add validations 
+->make a build of electron-vite project 
+->convert the code as per need 
+
+->make build of old version then make a release of new version
